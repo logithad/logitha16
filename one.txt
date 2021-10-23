@@ -2,9 +2,4 @@
 int main()
 {
 printf("in one");
-<<<<<<< HEAD
-printf("make some changes in the same file and same line");
-=======
-printf("making conflicts");
->>>>>>> 01f1b6d60d5a98b3f89ab1dbf4dcc298ceea0562
 }
